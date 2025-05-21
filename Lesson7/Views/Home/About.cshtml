@@ -1,0 +1,18 @@
+﻿@model Company
+@{
+    ViewData["Title"] = "About Page";
+}
+
+<div>
+    <h1>О нас</h1>
+    <p>Это наша команда</p>
+    
+    @foreach (var employee in @Model.Employees)
+    {
+        <ul>
+            <li>Должность: @employee.Position<br>
+            ФИО: @employee.LastName @employee.FirstName @employee.MiddleName<br>
+            Номер телефона: @employee.TelephoneNumber</li>
+        </ul>
+    }
+</div>

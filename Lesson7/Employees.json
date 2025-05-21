@@ -1,0 +1,26 @@
+[
+{"last_name":"Иванов",
+ "first_name":"Иван",
+ "middle_name":"Иванович",
+ "position":"Руководитель проектной группы",
+ "telephone_number":"89271654879"
+},
+{"last_name":"Петров",
+ "first_name":"Петр",
+ "middle_name":"Петрович",
+ "position":"Менеджер проектов",
+ "telephone_number":"89474568415"
+},
+{"last_name":"Сидоров",
+ "first_name":"Иван",
+ "middle_name":"Петрович",
+ "position":"Менеджер проектов",
+ "telephone_number":"89254687412"
+},
+{"last_name":"Иванова",
+ "first_name":"Елена",
+ "middle_name":"Леонидовна",
+ "position":"Менеджер проектов",
+ "telephone_number":"89134564152"
+}
+]
